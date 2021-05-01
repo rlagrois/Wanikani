@@ -4,7 +4,7 @@
 */
 
 .heatmap {
-    --day-size: 10px;
+    --day-size: 13px;
     --day-gap: 2px;
 	--year-label-size: 20px;
 	--hover-background-color: #424242;
